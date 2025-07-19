@@ -1,6 +1,6 @@
 # Project-Hermes
 
-> Hermes (n.): God of speed, travel, and messangers. In this incarnation he carries pixels instead of scrolls, streaming your games from your desktop to your hands.
+> Hermes (n.): God of speed, travel, and messangers. In this incarnation he carries pixels instead of scrolls, streaming your games from your desktop to your hands :D
 
 Project Hermes is a portable game streaming handheld built for PC gamers, stream all of your games via SteamLink and enjoy console-like gameplay on the go, without rebuying games or paying console prices for the hardware!
 
