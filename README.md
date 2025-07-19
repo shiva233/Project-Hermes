@@ -2,7 +2,7 @@
 
 > Hermes (n.): God of speed, travel, and messangers. In this incarnation he carries pixels instead of scrolls, streaming your games from your desktop to your hands.
 
-Project Hermes is a handheld "console" designed for people who already own gaming PCs so they can stream their games via SteamLink so they can take it anywhere for cheap!
+Project Hermes is a portable game streaming handheld built for PC gamers, stream all of your games via SteamLink and enjoy console-like gameplay on the go, without rebuying games or paying console prices for the hardware!
 
 <img width="515" height="709" alt="image" src="https://github.com/user-attachments/assets/cfceb048-ffd1-4350-9c66-8f8eed938f32" />
 
