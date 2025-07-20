@@ -66,3 +66,11 @@ The design constraints should be pretty self explanatory but I will explain why 
 Anyways this took me a while trying to figure out everything I needed and finding the right parts (especially powering this damm thing that was so annoying to figure out)
 
 **Total Time Spent Today: 3h**
+
+
+# June 20th - Sketch and hopefully CAD!
+
+I made a sketch on my tablet of what I want it to look like! It obviously took some very heavy inspo from the ROG Ally and MSI Claw but since those are both proven designs with good ergonomics, why not!!
+
+<img width="1222" height="876" alt="image" src="https://github.com/user-attachments/assets/860b4a48-5dbc-47ce-94a7-ee61a4cb895b" />
+
