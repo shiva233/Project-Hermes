@@ -74,3 +74,16 @@ I made a sketch on my tablet of what I want it to look like! It obviously took s
 
 <img width="1222" height="876" alt="image" src="https://github.com/user-attachments/assets/860b4a48-5dbc-47ce-94a7-ee61a4cb895b" />
 
+Update 1:
+
+I spent a LOT of time trying to figure out this CAD Model, this is where I am so far :D
+
+<img width="1025" height="547" alt="image" src="https://github.com/user-attachments/assets/087f9050-ec20-47d9-85c7-e87c9c29651c" />
+
+<img width="624" height="375" alt="image" src="https://github.com/user-attachments/assets/da9756a7-8e93-4a57-b876-b3dc039939c2" />
+
+<img width="1124" height="623" alt="image" src="https://github.com/user-attachments/assets/399c30f4-835f-4b46-b6a6-e182a1671b21" />
+
+I am still very new to cad so this took me 3 hours to make 😭 but its okay!! progress is progress right?? :D
+
+**Total Time Spent Today: 3.5h**
