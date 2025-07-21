@@ -5,6 +5,8 @@
 Project Hermes is a portable game streaming handheld built for PC gamers, stream all of your games via SteamLink and enjoy console-like gameplay on the go, without rebuying games or paying console prices for the hardware!
 
 <img width="515" height="709" alt="image" src="https://github.com/user-attachments/assets/cfceb048-ffd1-4350-9c66-8f8eed938f32" />
+<img width="1222" height="876" alt="image" src="https://github.com/user-attachments/assets/fd4e3bd9-86b3-4d73-8584-05efb4eccc81" />
+
 
 ## Usage
 
