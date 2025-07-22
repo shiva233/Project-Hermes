@@ -110,3 +110,11 @@ I also 3d printed the controller sides to see how they feel in my hands and if t
 anyways now that I roughly know where I want everything to be placed I can move on the PCB design tmrw :D
 
 **Total time spent today: 3h** 
+
+# June 22nd - PCB time!
+
+Before I get started with the schematic or any actual routing I realized I needed to figure out how to line up everything on the PCB to the way I wanted it on the 3D Model. I didnt know how to do this at first and I could not find much cuz most videos/tutorials online were PCB to 3D model not the other way around. Then I found a tutorial showing me how to export my sketch as DFX file and import that to KiCad. Thats exactly what I did and tada!
+
+<img width="1169" height="659" alt="image" src="https://github.com/user-attachments/assets/b368d1f1-160d-452f-aeb3-b74e876b4d9e" />
+
+I can line it all up now :D and this is to scale as well!! Alright time to work on the schematic and think about wiring hmhmhm
