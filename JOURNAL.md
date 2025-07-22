@@ -87,3 +87,26 @@ I spent a LOT of time trying to figure out this CAD Model, this is where I am so
 I am still very new to cad so this took me 3 hours to make 😭 but its okay!! progress is progress right?? :D
 
 **Total Time Spent Today: 3.5h**
+
+
+# June 21st - DID A LOTT OF CAD and tested ergonomics!
+
+omg omg so I think I am pretty much where I want to be with the CAD/3d model!! 
+
+TADA:
+
+<img width="790" height="378" alt="image" src="https://github.com/user-attachments/assets/26e54238-e8ca-4937-ba8a-61f85d0cc06d" />
+<img width="739" height="418" alt="image" src="https://github.com/user-attachments/assets/0ebabf33-c904-4e12-913f-43290b33957a" />
+<img width="422" height="374" alt="image" src="https://github.com/user-attachments/assets/b347d0fa-d9f7-4d88-bf69-131d52a36fc8" />
+
+
+I am very proud of this model but it took me a WHILE to do.
+
+I also 3d printed the controller sides to see how they feel in my hands and if the placement of everything made sense, decided they didnt make sense so moved stuff around and reprinted it :D
+
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/2a0d94aa-3c74-4862-8e32-2a4006f4b737" />
+<img width="1032" height="397" alt="image" src="https://github.com/user-attachments/assets/5c8e93c5-4cf0-4cb3-b2a9-c1939531ca4f" />
+
+anyways now that I roughly know where I want everything to be placed I can move on the PCB design tmrw :D
+
+**Total time spent today: 3h** 
