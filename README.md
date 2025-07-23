@@ -33,7 +33,7 @@ Project Hermes => SteamLink => Gaming PC (Controller Input)
 
 <img width="504" height="320" alt="image" src="https://github.com/user-attachments/assets/55be963d-600b-400c-b56a-53bcda2824cd" />
 
-Raspberry Pi 4 (2 GB with cooler) + Pisugar S Pro Portable 5000 mAh UPS +  7 inch LCD Display + Raspberry Pico Custom Controller + 3D Printed Housing = Project Hermes! :D 
+Raspberry Pi 4 (2 GB with cooler) + Pisugar S Pro Portable 5000 mAh UPS +  7 inch LCD Display + RP2040-Zero Custom Controller + 3D Printed Housing = Project Hermes! :D 
 
 ## BOM (Subject to Change)
 
