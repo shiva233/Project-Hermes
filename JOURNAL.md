@@ -134,5 +134,10 @@ Also also also I added colors to the 3d model cuz why not :D
 
 <img width="1522" height="789" alt="image" src="https://github.com/user-attachments/assets/c37567a1-3043-4167-b435-6420e9ed4c04" />
 
+Upadte 2:
 
-**Total Time Spent today: 2h**
+<img width="1087" height="459" alt="image" src="https://github.com/user-attachments/assets/35d34182-bf53-4748-a8e6-aa704fda9018" />
+
+Placed all the components besides the joysticks! will route tmrw cuz its 4 am and I am sleepy
+
+**Total Time Spent today: 3h**
