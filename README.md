@@ -42,7 +42,7 @@ Raspberry Pi 4 (2 GB with cooler) + Pisugar S Pro Portable 5000 mAh UPS +  7 inc
 | Raspberry Pi 4 (2 GB with cooler)   | Main Compute Unit              | AliExpress   |      $80.38 |
 | Pisugar S Pro Portable 5000 mAh UPS | Battery + Power Management     | Amazon       |      $47.46 |
 | 7 inch LCD Display                  | Display                        | AliExpress   |      $34.99 |
-| Raspberry Pico                      | Controller Input MCU           | Self-Sourced |       $0.00 |
+| Waveshare RP2040-Zero               | Controller Input MCU           | Self-Sourced |       $0.00 |
 | Tact Switch Push Button             | Face Buttons + Utility Inputs  | AliExpress   |       $2.42 |
 | Hall Effect Joystick (x2)           | Analog Thumbsticks             | AliExpress   |       $4.33 |
 | Controller PCB                      | Controller PCB                 | JLCPCB       |       38.45 |
