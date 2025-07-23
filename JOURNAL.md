@@ -141,3 +141,11 @@ Upadte 2:
 Placed all the components besides the joysticks! will route tmrw cuz its 4 am and I am sleepy
 
 **Total Time Spent today: 3h**
+
+# July 23rd - IM GONNA FINISH THE PCB TODAY RAHHH
+
+<img width="1623" height="602" alt="image" src="https://github.com/user-attachments/assets/1b927774-2598-4c8b-bc66-b2fb2a93f027" />
+
+hi hi! this is where I am with the PCB so far! you might have noticed: shiva you dummy u did not put the joystick footprints in! and yes I know that, but like I said yesterday there were a lot of different footprints for the joystick and I got confused so instead of feeling overwhelmed I tried to route everything else beforehand. obv I will have to redo a lot of this once the joysticks are here but now I have the confidence to route stuff properly :D this took me around an hour to route properly :0 
+
+Update 1:
