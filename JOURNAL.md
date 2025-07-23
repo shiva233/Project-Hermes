@@ -118,3 +118,21 @@ Before I get started with the schematic or any actual routing I realized I neede
 <img width="1169" height="659" alt="image" src="https://github.com/user-attachments/assets/b368d1f1-160d-452f-aeb3-b74e876b4d9e" />
 
 I can line it all up now :D and this is to scale as well!! Alright time to work on the schematic and think about wiring hmhmhm
+
+
+Update 1:
+
+Done the schematic except for the joysticks cuz im lowkey a bit confused about that and need to research that more 
+
+<img width="1617" height="537" alt="image" src="https://github.com/user-attachments/assets/46fbd765-ba67-45e4-ad3c-6ea7ca96f202" />
+
+And you may have noticed that I am not using a raspberry pico in this schematic... and thats because I had to switch to a **waveshare rp2040-zero!** this is because I realized the Raspberry Pico only has **3 analog pins** and each joystick requires 2 analog pins, soooo 2x2=4 meaning I need 4 analog pins which the pico does not have D: fortunately rp2040-zero has exactly 4 :D
+
+so yeah the joysticks actually seem kinda confusing cuz there are so many different versions of them so I need to research it more but I might try and finish the rest of the PCB before that if I can :0 
+
+Also also also I added colors to the 3d model cuz why not :D
+
+<img width="1522" height="789" alt="image" src="https://github.com/user-attachments/assets/c37567a1-3043-4167-b435-6420e9ed4c04" />
+
+
+**Total Time Spent today: 2h**
