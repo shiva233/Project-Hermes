@@ -149,3 +149,30 @@ Placed all the components besides the joysticks! will route tmrw cuz its 4 am an
 hi hi! this is where I am with the PCB so far! you might have noticed: shiva you dummy u did not put the joystick footprints in! and yes I know that, but like I said yesterday there were a lot of different footprints for the joystick and I got confused so instead of feeling overwhelmed I tried to route everything else beforehand. obv I will have to redo a lot of this once the joysticks are here but now I have the confidence to route stuff properly :D this took me around an hour to route properly :0 
 
 Update 1:
+
+tada!! I figured out the wiring for the joysticks :D 
+
+<img width="890" height="823" alt="image" src="https://github.com/user-attachments/assets/65230a66-989d-4820-a518-f7b6b5bfbbc8" />
+
+I figured it out by looking at a sparkfun breakout board for a joystick so i will explain it here:
+
+As u can see the symbol is split into 4 parts V, H, SEL and SHIELD
+
+V: is the vertical axis
+H: is the horizontal axis
+SEL: is the button when you push down on the joystick
+Shield: these just dont get connected :0
+
+So V+ and H+ are voltage so they go to 3.3v on the RP2040-Zero, V- and H- go to ground (so does SEL-). and finally H and V are the values we are actually gonna be reading and they go to the Analog gpio pins on the RP2040-Zero. The RP2040-Zero has 4 Analog pins like I said earlier and thats exactly how many we need because H and V for LS and H and V for RS. These pins are GPIO 26,27,28, and 29:
+
+<img width="1088" height="558" alt="image" src="https://github.com/user-attachments/assets/1e8fbc6b-af3f-4d73-a4a5-99039fb5ef51" />
+ 
+and then finally for the buttons I wired SEL+ on RS to GPIO14 and GPIO15 on LS
+
+So yippee!! 
+
+here is the completed schematic :D
+
+<img width="1179" height="587" alt="image" src="https://github.com/user-attachments/assets/f5523484-babc-44de-ac6d-27dc5ce70fc9" />
+
+now I just gotta do the routing for the joysticks and I think I can probably finish this project today (this is assuming trying to cad the electronics does not kill me)
