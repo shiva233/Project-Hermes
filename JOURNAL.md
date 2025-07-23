@@ -176,3 +176,11 @@ here is the completed schematic :D
 <img width="1179" height="587" alt="image" src="https://github.com/user-attachments/assets/f5523484-babc-44de-ac6d-27dc5ce70fc9" />
 
 now I just gotta do the routing for the joysticks and I think I can probably finish this project today (this is assuming trying to cad the electronics does not kill me)
+
+oh my god this took wayy to long because I was being silly but I finished the routing which means im done with the PCB YIPPEEEEE:
+
+<img width="1453" height="459" alt="image" src="https://github.com/user-attachments/assets/dd1d9f81-1288-4eb8-815d-b8517955c266" />
+
+:D
+
+Time to work on the CAD assembly... (this is going to kill me.)
