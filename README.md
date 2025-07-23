@@ -1,4 +1,4 @@
-# Project-Hermes
+# Project Hermes
 
 > Hermes (n.): God of speed, travel, and messangers. In this incarnation he carries pixels instead of scrolls, streaming your games from your desktop to your hands :D
 
