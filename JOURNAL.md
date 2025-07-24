@@ -184,3 +184,5 @@ oh my god this took wayy to long because I was being silly but I finished the ro
 :D
 
 Time to work on the CAD assembly... (this is going to kill me.)
+
+**Total Time Spent: 5.5h** (Blame me being bad at routing
