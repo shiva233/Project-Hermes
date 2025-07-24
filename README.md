@@ -47,8 +47,8 @@ Raspberry Pi 4 (2 GB with cooler) + Pisugar S Pro Portable 5000 mAh UPS +  7 inc
 | Waveshare RP2040-Zero               | Controller Input MCU           | Self-Sourced |       $0.00 |
 | Tact Switch Push Button             | Face Buttons + Utility Inputs  | AliExpress   |       $2.42 |
 | Hall Effect Joystick (x2)           | Analog Thumbsticks             | AliExpress   |       $4.33 |
-| Controller PCB                      | Controller PCB                 | JLCPCB       |       38.45 |
+| Controller PCB                      | Controller PCB                 | JLCPCB       |      $25.57 |
 | 3D Printed Case/Parts               |	Enclosure + Mechanical Housing | Self-Sourced |       $0.00 |
-|                                     |                                | Total CAD    |     $208.03 |
-|                                     |                                | Total USD    |     $151.86 |
+|                                     |                                | Total CAD    |     $195.15 |
+|                                     |                                | Total USD    |     $142.46 |
 
