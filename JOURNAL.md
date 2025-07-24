@@ -186,3 +186,15 @@ oh my god this took wayy to long because I was being silly but I finished the ro
 Time to work on the CAD assembly... (this is going to kill me.)
 
 **Total Time Spent: 5.5h** (Blame me being bad at routing
+
+# July 24th - ITS ALL COMING TOGETHER NOW!
+
+I split the body and I learned how to use shell to hollow it out for th components!! TADAA:
+
+<img width="951" height="536" alt="image" src="https://github.com/user-attachments/assets/56bbb6e1-4943-477d-bf5d-773e25bc580c" />
+<img width="959" height="481" alt="image" src="https://github.com/user-attachments/assets/66cd6f4b-75c1-495a-97d7-f9c4b3754b0f" />
+
+I did not think this would work first try but im glad it did :D
+
+also also also I have found 3d models for the Pi, Screen, and obv I have the model of the PCB from kicad :DD Now I just need to find a model of the pisugar (power supply/battery) online and I can wrap this up hopefully today mwehehe
+
