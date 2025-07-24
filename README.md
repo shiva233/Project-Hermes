@@ -6,6 +6,8 @@ Project Hermes is a portable game streaming handheld built for PC gamers, stream
 
 <img width="515" height="709" alt="image" src="https://github.com/user-attachments/assets/cfceb048-ffd1-4350-9c66-8f8eed938f32" />
 <img width="1222" height="876" alt="image" src="https://github.com/user-attachments/assets/fd4e3bd9-86b3-4d73-8584-05efb4eccc81" />
+<img width="1010" height="527" alt="image" src="https://github.com/user-attachments/assets/a9276654-7a35-4636-964f-665e07a6a70a" />
+<img width="1011" height="318" alt="image" src="https://github.com/user-attachments/assets/d47def44-6c06-4ee1-a75b-3c45a570a9c1" />
 
 
 ## Usage
