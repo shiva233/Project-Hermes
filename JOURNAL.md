@@ -219,3 +219,12 @@ Oki I added the buttons and stuff but I am still unhappy with how chonky it is:
 <img width="747" height="310" alt="image" src="https://github.com/user-attachments/assets/df468bc1-d483-45e0-9353-6de850353458" />
 
 Im gonna mess around with a few different orientations for the pi and see what happens, but this is really annoying me. Worst case scenario I submit it like this (chonky boi) and then redesign it later after I have it built because I have a 3D printer. While it isnt perfect I do want to keep the deadline in mind and not do it too last minute for the reviewers
+
+# Update 1:
+
+OK this is a bit unorthadox and definetly is not ideal but I pushed the pi to the left side of the console instead of the middle so that the pcb lays flush with the side without the tall USB 3.0 ports. this is a bit weird because I would have to slightly trim the gpio headers on the pi but if I can make it thinner by doing this I think ima go for it
+
+**obviously if anyone else wants to build this they would have to do the same thing and trim the gpio pins or reposition the Pi which is why it is not ideal** in a future revision (if I ever decide to upgrade it or maybe try and sell project hermes) I would probably use a thinner board like the pi4 compute with a hat for IO or maybe design my own SBC for this project but thats way to big of a task for me currently (based on my experience and obv the time constraint) which is why I am going with this work around :D 
+
+I will try my best to document the assembly instructions so if anyone does want to build this they can easily replicate the workaround I did >:D 
+
