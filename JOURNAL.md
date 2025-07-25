@@ -231,3 +231,14 @@ these lil guys poking through need a lil haircut >:D
 
 I will try my best to document the assembly instructions so if anyone does want to build this they can easily replicate the workaround I did :D 
 
+# Update 2: 
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA WHY DOES IT KEEP BREAKING WHEN I TRY TO MAKE IT LESS CHONKY:
+<img width="202" height="158" alt="image" src="https://github.com/user-attachments/assets/1cf4c96c-dabc-44c2-b693-300092ba616e" />
+
+<img width="904" height="642" alt="image" src="https://github.com/user-attachments/assets/e6618b98-0ba5-4e90-b678-0e65149a848a" />
+
+WHERE DID MY SHELL GO??? im about to crash out and punch my monitor
+
+![break-monitor](https://github.com/user-attachments/assets/cede4fda-c61d-462d-ae65-689f97ca5b2d)
+
