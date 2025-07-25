@@ -1,7 +1,7 @@
 ---
 title: Project Hermes
 author: Shiva Prakash
-description: Project Hermes is a handheld "console" designed for people who already own gaming PCs so they can stream their games via SteamLink so they can take it anywhere for cheap! 
+description: Project Hermes is a handheld console designed for people who already own gaming PCs so they can stream their games via SteamLink so they can take it anywhere for cheap! 
 created_at: 2025-07-19
 ---
 # Project Hermes Devlog / Creation Journal
