@@ -224,7 +224,10 @@ Im gonna mess around with a few different orientations for the pi and see what h
 
 OK this is a bit unorthadox and definetly is not ideal but I pushed the pi to the left side of the console instead of the middle so that the pcb lays flush with the side without the tall USB 3.0 ports. this is a bit weird because I would have to slightly trim the gpio headers on the pi but if I can make it thinner by doing this I think ima go for it
 
-**obviously if anyone else wants to build this they would have to do the same thing and trim the gpio pins or reposition the Pi which is why it is not ideal** in a future revision (if I ever decide to upgrade it or maybe try and sell project hermes) I would probably use a thinner board like the pi4 compute with a hat for IO or maybe design my own SBC for this project but thats way to big of a task for me currently (based on my experience and obv the time constraint) which is why I am going with this work around :D 
+<img width="743" height="567" alt="image" src="https://github.com/user-attachments/assets/45c7ab7b-5932-463a-90a2-e34e4c4969c8" />
+these lil guys poking through need a lil haircut >:D
 
-I will try my best to document the assembly instructions so if anyone does want to build this they can easily replicate the workaround I did >:D 
+**obviously if anyone else wants to build this they would have to do the same thing and trim the gpio pins or reposition the Pi which is why it is not ideal** in a future revision (if I ever decide to upgrade it or maybe try and sell project hermes) I would probably use a thinner board like the pi4 compute with a hat for IO or maybe design my own SBC for this project but thats way to big of a task for me currently (based on my experience and obv the time constraint) which is why I am going with this work around 
+
+I will try my best to document the assembly instructions so if anyone does want to build this they can easily replicate the workaround I did :D 
 
