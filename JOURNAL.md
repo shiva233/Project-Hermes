@@ -251,3 +251,24 @@ ok it has gotten a little better here is where I am now:
 
 <img width="1108" height="546" alt="image" src="https://github.com/user-attachments/assets/2529615a-dc6e-4648-ac69-122d78a6a462" />
 ... im gonna cry
+
+Ok I messed around with the form more and I guess this is progress??? 
+<img width="1361" height="724" alt="image" src="https://github.com/user-attachments/assets/d840c01a-eaed-4912-a3d2-46394931fadb" />
+
+HOW THE FLIP DO I EVEN FIX THIS MAN
+
+# Update 4: 
+
+YIPPEEE IT WORKS IT WORKS IT WORKS AND ITS LESS CHONKY :D
+
+<img width="1170" height="666" alt="image" src="https://github.com/user-attachments/assets/5d6b6c92-03e9-484d-81d2-1985a0409b29" />
+
+YAYYY
+
+also also added the usb-c charging port :D 
+
+<img width="813" height="593" alt="image" src="https://github.com/user-attachments/assets/89252c2c-d777-477b-be83-13af615c8c5e" />
+
+Now all I need to do is add the shoulder button holes and I should officially be ready to submit! (I dont know how to add the shoulder buttons though they are at an akward angle ;-;..) ohh well I will take a break and tackle it later
+
+
