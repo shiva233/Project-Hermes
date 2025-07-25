@@ -214,3 +214,8 @@ So I got all the electronics into my cad!! but it ended up being chunkier than I
 
 Im gonna experiment a bit but now all I need to do is add shoulder buttons and buttons for everything else and I should be good?? :D
 
+Oki I added the buttons and stuff but I am still unhappy with how chonky it is:
+<img width="843" height="446" alt="image" src="https://github.com/user-attachments/assets/7c7c19f8-2908-442d-bd4a-9744fced6d13" />
+<img width="747" height="310" alt="image" src="https://github.com/user-attachments/assets/df468bc1-d483-45e0-9353-6de850353458" />
+
+Im gonna mess around with a few different orientations for the pi and see what happens, but this is really annoying me. Worst case scenario I submit it like this (chonky boi) and then redesign it later after I have it built because I have a 3D printer. While it isnt perfect I do want to keep the deadline in mind and not do it too last minute for the reviewers
