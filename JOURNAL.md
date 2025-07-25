@@ -198,3 +198,8 @@ I did not think this would work first try but im glad it did :D
 
 also also also I have found 3d models for the Pi, Screen, and obv I have the model of the PCB from kicad :DD Now I just need to find a model of the pisugar (power supply/battery) online and I can wrap this up hopefully today mwehehe
 
+# Update 1:
+
+I have found a model for the PiSugar! which means I have all the models I need to finish the CAD YIPPEE
+<img width="749" height="224" alt="image" src="https://github.com/user-attachments/assets/64e7fc32-9856-4cc6-89ed-54e3d15e30b4" />
+
