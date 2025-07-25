@@ -203,3 +203,14 @@ also also also I have found 3d models for the Pi, Screen, and obv I have the mod
 I have found a model for the PiSugar! which means I have all the models I need to finish the CAD YIPPEE
 <img width="749" height="224" alt="image" src="https://github.com/user-attachments/assets/64e7fc32-9856-4cc6-89ed-54e3d15e30b4" />
 
+
+**Total Time Spent: 1h**
+
+
+# July 25th - I will finish this today >:)
+
+<img width="1069" height="424" alt="image" src="https://github.com/user-attachments/assets/5ccb2082-87a1-4c5a-9c42-7eb54794df27" />
+So I got all the electronics into my cad!! but it ended up being chunkier than I wanted to so I could fit the Pi and PCB :(
+
+Im gonna experiment a bit but now all I need to do is add shoulder buttons and buttons for everything else and I should be good?? :D
+
