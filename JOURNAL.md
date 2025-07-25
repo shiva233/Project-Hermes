@@ -238,6 +238,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA WHY DOES IT KEEP BREAKING WHEN I T
 
 <img width="904" height="642" alt="image" src="https://github.com/user-attachments/assets/e6618b98-0ba5-4e90-b678-0e65149a848a" />
 
+<img width="431" height="167" alt="image" src="https://github.com/user-attachments/assets/bfb8e5b9-ba8b-4b23-a74f-d28af5d0062b" />
+
+
 WHERE DID MY SHELL GO??? im about to crash out and punch my monitor
 
 ![break-monitor](https://github.com/user-attachments/assets/cede4fda-c61d-462d-ae65-689f97ca5b2d)
