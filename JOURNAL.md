@@ -245,3 +245,9 @@ WHERE DID MY SHELL GO??? im about to crash out and punch my monitor
 
 ![break-monitor](https://github.com/user-attachments/assets/cede4fda-c61d-462d-ae65-689f97ca5b2d)
 
+# Update 3:
+
+ok it has gotten a little better here is where I am now:
+
+<img width="1108" height="546" alt="image" src="https://github.com/user-attachments/assets/2529615a-dc6e-4648-ac69-122d78a6a462" />
+... im gonna cry
