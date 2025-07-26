@@ -43,7 +43,8 @@ Raspberry Pi 4 (2 GB with cooler) + Pisugar S Pro Portable 5000 mAh UPS +  7 inc
 
 ## 3D Model
 
-<img width="724" height="555" alt="image" src="https://github.com/user-attachments/assets/1767230e-a4dc-4875-af3e-63e17b3423c8" />
+<img width="929" height="362" alt="image" src="https://github.com/user-attachments/assets/08ee18a4-11fc-4f6d-94b0-90e6416542c2" />
+
 
 ## Controller PCB:
 
