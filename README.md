@@ -52,6 +52,13 @@ Raspberry Pi 4 (2 GB with cooler) + Pisugar S Pro Portable 5000 mAh UPS +  7 inc
 <img width="1582" height="491" alt="image" src="https://github.com/user-attachments/assets/79acefe4-89cc-409f-9546-678083317982" />
 <img width="1470" height="477" alt="image" src="https://github.com/user-attachments/assets/d1333003-bc9b-4d26-b2fc-6ea7278ec6f6" />
 
+## Wiring / Cable fun
+
+Display: Hdmi to Micro Hdmi + Power mico-usb that both plug into the Pi
+Controller: USB-C to USB-A that plugs into the Pi
+Battery: its a hat! 
+Shoulder Buttons: Shoulder buttons may be hand wired to the PCB with a wire extending it :O
+
 ## Firmware
 
 ok this part is important and might be confusing, Project Hermes uses two layers of firmware/software:
