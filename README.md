@@ -19,7 +19,8 @@ This might sound silly but I made Project Hermes because... I really really real
 
 So I designed a handheld that fixes both of these issues! It streams directly from the main PC so all the save files are still stored on the main computer, and since its running of the main computers hardware the console can be cheaper and use less expensive hardware! The whole thing pretty much runs of a Raspberry Pi 4 and is in total cheaper than a Switch Lite :D
 
-
+<img width="515" height="709" alt="image" src="https://github.com/user-attachments/assets/cfceb048-ffd1-4350-9c66-8f8eed938f32" />
+<img width="1222" height="876" alt="image" src="https://github.com/user-attachments/assets/fd4e3bd9-86b3-4d73-8584-05efb4eccc81" />
 
 ## Design Constraints / Goals:
 
@@ -56,12 +57,10 @@ ok this part is important and might be confusing, Project Hermes uses two layers
 
 ### 1. Raspberry Pi 4 - SteamLink Client
 
-<img width="515" height="709" alt="image" src="https://github.com/user-attachments/assets/cfceb048-ffd1-4350-9c66-8f8eed938f32" />
-<img width="1222" height="876" alt="image" src="https://github.com/user-attachments/assets/fd4e3bd9-86b3-4d73-8584-05efb4eccc81" />
+<img width="250" height="83" alt="Raspberry_Pi_OS_Logo" src="https://github.com/user-attachments/assets/f675ae30-a4a0-4a15-9b26-a391e9c8d25a" />
+<img width="213" height="142" alt="image" src="https://github.com/user-attachments/assets/6fbe900c-c207-4854-ac27-e75d038d910b" />
 
 The Raspberry Pi 4 will be running Raspberry Pi OS with the official SteamLink client downloaded onto it (might also add a script that makes SteamLink automatically launch every time the Pi is booted :0).
-
-
 
 SteamLink Handles this:
 
@@ -94,8 +93,7 @@ Why This Setup?
 - Reliability: Using a seperate dedicated microcontroller for the input reduces latency and avoids weird input issues (take this with a grain of salt this is what I infered from other handheld console projects online) 
  
 
-<img width="250" height="83" alt="Raspberry_Pi_OS_Logo" src="https://github.com/user-attachments/assets/f675ae30-a4a0-4a15-9b26-a391e9c8d25a" />
-<img width="213" height="142" alt="image" src="https://github.com/user-attachments/assets/6fbe900c-c207-4854-ac27-e75d038d910b" />
+
 
 
 ## BOM
