@@ -71,10 +71,10 @@ SteamLink Handles this:
 - Video/Audio: It takes the video and audio from your computer and streams it to the Pi!
 - It also takes inputs from the controller on Project Hermes and sends it back to your computer
 
-This makes it so all the heavy lifting/processing power is done by your PC and the Pi just becomes the bridge teh carries the pixels (video/audio) in one direction and controller signals in the other (just like Hermes!!).
+This makes it so all the heavy lifting/processing power is done by your PC and the Pi just becomes the bridge the carries the pixels (video/audio) in one direction and controller signals in the other (just like Hermes!!).
 
 ### 2. Custom Controller - GP2040-CE Firmware
-- The RP2040-Zero microcontroller inside the controller PCB will be running [GP2040-CE, which is an opensource firmware deisnged for game controllers! ]([url](https://github.com/OpenStickCommunity/GP2040-CE))
+- The RP2040-Zero microcontroller inside the controller PCB will be running [GP2040-CE, which is an opensource firmware deisnged for game controllers! ]([https://github.com/OpenStickCommunity/GP2040-CE])
 
 What GP204-CE does;
 - Turns the controller into a USB HID! Basically this means that the Pi and PC see it as a standard controller just like an Xbox controller
