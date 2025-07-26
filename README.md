@@ -73,13 +73,13 @@ SteamLink Handles this:
 
 This makes it so all the heavy lifting/processing power is done by your PC and the Pi just becomes the bridge the carries the pixels (video/audio) in one direction and controller signals in the other (just like Hermes!!).
 
-### 2. Custom Controller - GP2040-CE Firmware
-- The RP2040-Zero microcontroller inside the controller PCB will be running [GP2040-CE, which is an opensource firmware deisnged for game controllers! ]([https://github.com/OpenStickCommunity/GP2040-CE])
-
-What GP204-CE does;
+### 2. Custom Controller - [GP2040-CE Firmware](https://github.com/OpenStickCommunity/GP2040-CE)
+- The RP2040-Zero microcontroller inside the controller PCB will be running [GP2040-CE, which is an opensource firmware deisnged for game controllers! ](https://github.com/OpenStickCommunity/GP2040-CE)
+What GP2040-CE does:
 - Turns the controller into a USB HID! Basically this means that the Pi and PC see it as a standard controller just like an Xbox controller
 - Handles all the button presses, D-pad inputs, and analog signals from the joysticks (which the Pi cannot do btw since it does not have analog pins to my knowledge) and then sends them as input data over USB to the Pi.
 - It's low latency and fully compatible with SteamLink, which means your computer treats Project Hermes like a normal controller with no special drivers or extra setup :D
+- LOOK INTO GP2040-CE AND SUPPORT THEM THEY ARE SO COOL RAHHHH >:O
 
 Why This Setup?
 
