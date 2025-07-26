@@ -94,9 +94,6 @@ Why This Setup?
 - Reliability: Using a seperate dedicated microcontroller for the input reduces latency and avoids weird input issues (take this with a grain of salt this is what I infered from other handheld console projects online) 
  
 
-
-
-
 ## BOM
 
 
@@ -107,9 +104,11 @@ Why This Setup?
 | Pisugar S Pro Portable 5000 mAh UPS | Power Supply / Bank          | Amazon       |      $47.46 |
 | 7 inch LCD Display                  | Display                      | AliExpress   |      $34.99 |
 | Waveshare rp2040-Zero               | Controller Microcontroller   | Self-Sourced |       $0.00 |
-| Tact Switch Push Button (50pcs)     | Controller Buttons + Trigger | AliExpress   |       $2.42 |
-| Hall Effect Joystick (x2)           | Controller Joysticks         | AliExpress   |       $4.33 |
-| Controller PCB                      | Controller PCB               | JLCPCB       |      $25.57 |
+| Tact Switch Push Button             | Controller Buttons + Triggers| AliExpress   |       $2.42 |
+| Analog Effect Joystick              | Controller Joysticks         | AliExpress   |       $4.33 |
+| Controller PCB                      | Controller PCB               | JLCPCB       |      $25.76 |
 | 3D Printed Case/Parts               | Housing/Buttons              | Self-Sourced |       $0.00 |
-|                                     |                              | Total CAD    |     $200.82 |
-|                                     |                              | Total USD    |     $146.60 |
+|                                     |                              | Total CAD    |     $201.01 |
+|                                     |                              | Total USD    |     $146.74 | 
+
+(that's cheaper than a Switch Lite :O)
