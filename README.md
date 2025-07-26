@@ -22,17 +22,6 @@ So I designed a handheld that fixes both of these issues! It streams directly fr
 <img width="515" height="709" alt="image" src="https://github.com/user-attachments/assets/cfceb048-ffd1-4350-9c66-8f8eed938f32" />
 <img width="1222" height="876" alt="image" src="https://github.com/user-attachments/assets/fd4e3bd9-86b3-4d73-8584-05efb4eccc81" />
 
-## Usage
-
-<img width="413" height="284" alt="image" src="https://github.com/user-attachments/assets/6fbe900c-c207-4854-ac27-e75d038d910b" />
-
-
-Gaming PC => SteamLink => Project Hermes (Video + Audio)
-
-
-Project Hermes => SteamLink => Gaming PC (Controller Input)
-
-
 ## Design Constraints / Goals:
 
 - Size: Must be similar size/footprint to Steam Deck, ROG Ally or Switch (around 30cm x 11cm x 4cm) ☑️
@@ -51,18 +40,71 @@ Project Hermes => SteamLink => Gaming PC (Controller Input)
 
 Raspberry Pi 4 (2 GB with cooler) + Pisugar S Pro Portable 5000 mAh UPS +  7 inch LCD Display + RP2040-Zero Custom Controller + 3D Printed Housing = Project Hermes! :D 
 
-## BOM (Subject to Change)
 
-| Item                                | Usage                          | Source       | Price (CAD) |
-|-------------------------------------|--------------------------------|--------------|-------------|
-| Raspberry Pi 4 (2 GB with cooler)   | Main Compute Unit              | AliExpress   |      $80.38 |
-| Pisugar S Pro Portable 5000 mAh UPS | Battery + Power Management     | Amazon       |      $47.46 |
-| 7 inch LCD Display                  | Display                        | AliExpress   |      $34.99 |
-| Waveshare RP2040-Zero               | Controller Input MCU           | Self-Sourced |       $0.00 |
-| Tact Switch Push Button             | Face Buttons + Utility Inputs  | AliExpress   |       $2.42 |
-| Hall Effect Joystick (x2)           | Analog Thumbsticks             | AliExpress   |       $4.33 |
-| Controller PCB                      | Controller PCB                 | JLCPCB       |      $25.57 |
-| 3D Printed Case/Parts               |	Enclosure + Mechanical Housing | Self-Sourced |       $0.00 |
-|                                     |                                | Total CAD    |     $195.15 |
-|                                     |                                | Total USD    |     $142.46 |
+## 3D Model
 
+<img width="724" height="555" alt="image" src="https://github.com/user-attachments/assets/1767230e-a4dc-4875-af3e-63e17b3423c8" />
+
+## Controller PCB:
+
+<img width="1468" height="777" alt="image" src="https://github.com/user-attachments/assets/5630e20a-485d-4203-a1d7-e592746b57e0" />
+<img width="1582" height="491" alt="image" src="https://github.com/user-attachments/assets/79acefe4-89cc-409f-9546-678083317982" />
+<img width="1470" height="477" alt="image" src="https://github.com/user-attachments/assets/d1333003-bc9b-4d26-b2fc-6ea7278ec6f6" />
+
+## Usage
+
+Gaming PC => SteamLink => Project Hermes (Video + Audio)
+
+
+Project Hermes => SteamLink => Gaming PC (Controller Input)
+
+## Firmware
+
+ok this part is important and might be confusing, Project Hermes uses two layers of firmware/software:
+
+### 1. Raspberry Pi 4 - SteamLink Client
+
+The Raspberry Pi 4 will be running Raspberry Pi OS with the official SteamLink client downloaded onto it (might also add a script that makes SteamLink automatically launch every time the Pi is booted :0).
+
+SteamLink Handles this:
+
+- Video/Audio: It takes the video and audio from your computer and streams it to the Pi!
+- It also takes inputs from the controller on Project Hermes and sends it back to your computer
+
+This makes it so all the heavy lifting/processing power is done by your PC and the Pi just becomes the bridge teh carries the pixels (video/audio) in one direction and controller signals in the other (just like Hermes!!).
+
+### 2. Custom Controller - GP2040-CE Firmware
+- The RP2040-Zero microcontroller inside the controller PCB will be running [GP2040-CE, which is an opensource firmware deisnged for game controllers! ]([url](https://github.com/OpenStickCommunity/GP2040-CE))
+
+What GP204-CE does;
+- Turns the controller into a USB HID! Basically this means that the Pi and PC see it as a standard controller just like an Xbox controller
+- Handles all the button presses, D-pad inputs, and analog signals from the joysticks (which the Pi cannot do btw since it does not have analog pins to my knowledge) and then sends them as input data over USB to the Pi.
+- It's low latency and fully compatible with SteamLink, which means your computer treats Project Hermes like a normal controller with no special drivers or extra setup :D
+
+Why This Setup?
+
+- No custom firmware: Since GP2040-CE is highly optimized for gaming responsiveness (fancy shamncy way of saying its low latency ig) and supports all the features I need for this project without :DD
+- Plug and play: this one is kinda self explantory but it makes sure that I can just plug in USB and immediately start using it as a controller without having the Raspberry Pi guess what the controller is or anything like that
+- Reliability: Using a seperate dedicated microcontroller for the input reduces latency and avoids weird input issues (take this with a grain of salt this is what I infered from other handheld console projects online) 
+ 
+
+<img width="250" height="83" alt="Raspberry_Pi_OS_Logo" src="https://github.com/user-attachments/assets/f675ae30-a4a0-4a15-9b26-a391e9c8d25a" />
+<img width="213" height="142" alt="image" src="https://github.com/user-attachments/assets/6fbe900c-c207-4854-ac27-e75d038d910b" />
+
+
+## BOM
+
+
+| Item                                | Usage                        | Source       | Price (CAD) |
+|-------------------------------------|------------------------------|--------------|-------------|
+| Raspberry Pi 4 (2 GB)               | Computer                     | AliExpress   |      $80.38 |
+| Pi 4 Cooling Fan                    | Cooling                      | Ali Express  |       $5.67 |
+| Pisugar S Pro Portable 5000 mAh UPS | Power Supply / Bank          | Amazon       |      $47.46 |
+| 7 inch LCD Display                  | Display                      | AliExpress   |      $34.99 |
+| Waveshare rp2040-Zero               | Controller Microcontroller   | Self-Sourced |       $0.00 |
+| Tact Switch Push Button (50pcs)     | Controller Buttons + Trigger | AliExpress   |       $2.42 |
+| Hall Effect Joystick (x2)           | Controller Joysticks         | AliExpress   |       $4.33 |
+| Controller PCB                      | Controller PCB               | JLCPCB       |      $25.57 |
+| 3D Printed Case/Parts               | Housing/Buttons              | Self-Sourced |       $0.00 |
+|                                     |                              | Total CAD    |     $200.82 |
+|                                     |                              | Total USD    |     $146.60 |
