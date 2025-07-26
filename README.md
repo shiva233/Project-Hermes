@@ -41,7 +41,7 @@ Raspberry Pi 4 (2 GB with cooler) + Pisugar S Pro Portable 5000 mAh UPS +  7 inc
 
 | Item                                | Usage                          | Source       | Price (CAD) |
 |-------------------------------------|--------------------------------|--------------|-------------|
-| Raspberry Pi 4 (2 GB with cooler)   | Main Compute Unit              | AliExpress   |      $80.38 |
+| Raspberry Pi 4 (2 GB with cooler)   | Main Compute Unit              | [AliExpress](www.youtube.com)   |      $80.38 |
 | Pisugar S Pro Portable 5000 mAh UPS | Battery + Power Management     | Amazon       |      $47.46 |
 | 7 inch LCD Display                  | Display                        | AliExpress   |      $34.99 |
 | Waveshare RP2040-Zero               | Controller Input MCU           | Self-Sourced |       $0.00 |
