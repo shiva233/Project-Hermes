@@ -121,4 +121,5 @@ Why This Setup?
 |                                     |                              |              |                                   Total CAD |     $201.01 |
 |                                     |                              |              |                                   Total USD |     $146.74 |
 
+Note: the pisugar was cheaper on amazon than aliexpress
 (that's cheaper than a Switch Lite :O)
