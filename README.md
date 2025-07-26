@@ -19,8 +19,7 @@ This might sound silly but I made Project Hermes because... I really really real
 
 So I designed a handheld that fixes both of these issues! It streams directly from the main PC so all the save files are still stored on the main computer, and since its running of the main computers hardware the console can be cheaper and use less expensive hardware! The whole thing pretty much runs of a Raspberry Pi 4 and is in total cheaper than a Switch Lite :D
 
-<img width="515" height="709" alt="image" src="https://github.com/user-attachments/assets/cfceb048-ffd1-4350-9c66-8f8eed938f32" />
-<img width="1222" height="876" alt="image" src="https://github.com/user-attachments/assets/fd4e3bd9-86b3-4d73-8584-05efb4eccc81" />
+
 
 ## Design Constraints / Goals:
 
@@ -51,29 +50,36 @@ Raspberry Pi 4 (2 GB with cooler) + Pisugar S Pro Portable 5000 mAh UPS +  7 inc
 <img width="1582" height="491" alt="image" src="https://github.com/user-attachments/assets/79acefe4-89cc-409f-9546-678083317982" />
 <img width="1470" height="477" alt="image" src="https://github.com/user-attachments/assets/d1333003-bc9b-4d26-b2fc-6ea7278ec6f6" />
 
-## Usage
-
-Gaming PC => SteamLink => Project Hermes (Video + Audio)
-
-
-Project Hermes => SteamLink => Gaming PC (Controller Input)
-
 ## Firmware
 
 ok this part is important and might be confusing, Project Hermes uses two layers of firmware/software:
 
 ### 1. Raspberry Pi 4 - SteamLink Client
 
+<img width="515" height="709" alt="image" src="https://github.com/user-attachments/assets/cfceb048-ffd1-4350-9c66-8f8eed938f32" />
+<img width="1222" height="876" alt="image" src="https://github.com/user-attachments/assets/fd4e3bd9-86b3-4d73-8584-05efb4eccc81" />
+
 The Raspberry Pi 4 will be running Raspberry Pi OS with the official SteamLink client downloaded onto it (might also add a script that makes SteamLink automatically launch every time the Pi is booted :0).
+
+
 
 SteamLink Handles this:
 
 - Video/Audio: It takes the video and audio from your computer and streams it to the Pi!
 - It also takes inputs from the controller on Project Hermes and sends it back to your computer
 
+So basically:
+
+Gaming PC => SteamLink => Project Hermes (Video + Audio)
+
+Project Hermes => SteamLink => Gaming PC (Controller Input)
+
 This makes it so all the heavy lifting/processing power is done by your PC and the Pi just becomes the bridge the carries the pixels (video/audio) in one direction and controller signals in the other (just like Hermes!!).
 
 ### 2. Custom Controller - [GP2040-CE Firmware](https://github.com/OpenStickCommunity/GP2040-CE)
+
+<img width="342" height="100" alt="gp2040-ce-logo" src="https://github.com/user-attachments/assets/297c4362-7481-4f5f-9468-7520bdaba086" />
+
 - The RP2040-Zero microcontroller inside the controller PCB will be running [GP2040-CE, which is an opensource firmware deisnged for game controllers! ](https://github.com/OpenStickCommunity/GP2040-CE)
 What GP2040-CE does:
 - Turns the controller into a USB HID! Basically this means that the Pi and PC see it as a standard controller just like an Xbox controller
