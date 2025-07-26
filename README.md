@@ -68,12 +68,12 @@ Shoulder Buttons: Shoulder buttons may be hand wired to the PCB with a wire exte
 
 ok this part is important and might be confusing, Project Hermes uses two layers of firmware/software:
 
-### 1. Raspberry Pi 4 - SteamLink Client
+### 1. Raspberry Pi 4 - [SteamLink](https://store.steampowered.com/app/353380/Steam_Link/) Client
 
 <img width="250" height="83" alt="Raspberry_Pi_OS_Logo" src="https://github.com/user-attachments/assets/f675ae30-a4a0-4a15-9b26-a391e9c8d25a" />
 <img width="213" height="142" alt="image" src="https://github.com/user-attachments/assets/6fbe900c-c207-4854-ac27-e75d038d910b" />
 
-The Raspberry Pi 4 will be running Raspberry Pi OS with the official SteamLink client downloaded onto it (might also add a script that makes SteamLink automatically launch every time the Pi is booted :0).
+The Raspberry Pi 4 will be running [Raspberry Pi OS](https://www.raspberrypi.com/software/operating-systems/) with the official [SteamLink](https://store.steampowered.com/app/353380/Steam_Link/) client downloaded onto it (might also add a script that makes SteamLink automatically launch every time the Pi is booted :0).
 
 SteamLink Handles this:
 
