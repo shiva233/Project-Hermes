@@ -1,16 +1,18 @@
 # Project Hermes
 
+<img width="1003" height="626" alt="image" src="https://github.com/user-attachments/assets/5d83a72a-ea9e-4dfc-b0da-4932722fab98" />
+
 > Hermes (n.): God of speed, travel, and messangers. In this incarnation he carries pixels instead of scrolls, streaming your games from your desktop to your hands :D
 
-Project Hermes is a portable game streaming handheld built for PC gamers, stream all of your games via SteamLink and enjoy console-like gameplay on the go, without rebuying games or paying console prices for the hardware!
+Project Hermes is a portable game streaming handheld built for PC gamers, stream all of your games via SteamLink to the console on the go, without rebuying games or paying console prices for the hardware!
 
 <img width="515" height="709" alt="image" src="https://github.com/user-attachments/assets/cfceb048-ffd1-4350-9c66-8f8eed938f32" />
 <img width="1222" height="876" alt="image" src="https://github.com/user-attachments/assets/fd4e3bd9-86b3-4d73-8584-05efb4eccc81" />
-<img width="1010" height="527" alt="image" src="https://github.com/user-attachments/assets/a9276654-7a35-4636-964f-665e07a6a70a" />
-<img width="1011" height="318" alt="image" src="https://github.com/user-attachments/assets/d47def44-6c06-4ee1-a75b-3c45a570a9c1" />
 
 
 ## Usage
+
+<img width="413" height="284" alt="image" src="https://github.com/user-attachments/assets/6fbe900c-c207-4854-ac27-e75d038d910b" />
 
 
 Gaming PC => SteamLink => Project Hermes (Video + Audio)
@@ -21,14 +23,14 @@ Project Hermes => SteamLink => Gaming PC (Controller Input)
 
 ## Design Constraints / Goals:
 
-- Size: Must be similar size/footprint to Steam Deck, ROG Allay or Switch (around 30cm x 11cm x 4cm)
-- Price: Must be cheaper than a Switch Lite (since it can't actually run games natively and only stream its not reasonable for it to cost more than an actual console) therefore must cost less than **$260 CAD or $190 USD**
-- Power: Battery Powered, chargable via USB-C while in use (aiming for around 2-3 hours)
-- Compute: Be able to run SteamLink at 720p 60hz
-- Display: Atleast 7 inch, 720p 60hz, HDMI compatible
-- Input: Via USB HID, same layout as an Xbox controller
-- Connectivity: Must be able to run off just WiFi
-- Encolosure: Fully 3D Printed, no custom fabrication or CNC. Easily assembled with hand tools.
+- Size: Must be similar size/footprint to Steam Deck, ROG Ally or Switch (around 30cm x 11cm x 4cm) ☑️
+- Price: Must be cheaper than a Switch Lite (since it can't actually run games natively and only stream its not reasonable for it to cost more than an actual console) therefore must cost less than **$260 CAD or $190 USD** ☑️
+- Power: Battery Powered, chargable via USB-C while in use (aiming for around 2-3 hours) ☑️
+- Compute: Be able to run SteamLink at 720p 60hz ☑️
+- Display: Atleast 7 inch, 720p 60hz, HDMI compatible ☑️
+- Input: Via USB HID, same layout as an Xbox controller ☑️
+- Connectivity: Must be able to run off just WiFi ☑️ 
+- Encolosure: Fully 3D Printed, no custom fabrication or CNC. Easily assembled with hand tools ☑️
 
 
 ## Anatomy of Project Hermes:
