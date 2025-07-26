@@ -7,6 +7,8 @@ created_at: 2025-07-19
 # Project Hermes Devlog / Creation Journal
 ----
 
+# Total time spent: 24h (wow I did not expect such a nice number) 
+
 # July 18th - Planning/Research
 
 Hi hi this is my devlog/journal for Project Hermes! 
