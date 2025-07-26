@@ -271,4 +271,64 @@ also also added the usb-c charging port :D
 
 Now all I need to do is add the shoulder button holes and I should officially be ready to submit! (I dont know how to add the shoulder buttons though they are at an akward angle ;-;..) ohh well I will take a break and tackle it later
 
+# Update 5: 
 
+TADAAA THE SHOULDER BUTTONS ARE DONNE THIS TOOK WAYY TO LONG CUZ ONE OF THEM HAD TO BE AT AN ANGLE AND I DIDNT KNOW HOW TO DO THAT BUT I DID IT YIPPEEE:
+
+<img width="701" height="388" alt="image" src="https://github.com/user-attachments/assets/5f907a9f-85e3-41f5-ad46-54e74c1bd0d7" />
+
+now I would love to say thats it and I can submit now... but I noticed this:
+
+<img width="951" height="402" alt="image" src="https://github.com/user-attachments/assets/e990be36-1358-491f-babb-1e4b59956f36" />
+
+the screen is slightly poking out.
+
+![dog-sunset-javgag](https://github.com/user-attachments/assets/58d2fd61-fb2a-4195-bd81-c00930635259)
+
+well time to fix that and hopefully nothing breaks :D
+
+NO NO NO NO 
+
+<img width="1164" height="621" alt="image" src="https://github.com/user-attachments/assets/b8935c3b-8884-4a80-aae0-acd3010c1941" />
+WHY DID IT BREAK AGAIN NO IM GONNA CRASH OUT
+
+OK IM GONNA TRY AGAIN THIS TIME JUST MOVING 4 FACES BY ONLY **1 MILIMETER** IF THIS BREAKS IT MY MONITOR WILL NOT BE SAFE
+
+<img width="1457" height="805" alt="image" src="https://github.com/user-attachments/assets/dcdbe78a-0c23-4eeb-a5e5-4c18a8c8f429" />
+
+no freaking way.
+
+![drakendedyou](https://github.com/user-attachments/assets/ba28d5b0-bfb8-4b5f-a841-723233d90c2d)
+^ live view of me tweaking the fuck out it is 2:30 AM right now.
+
+Am I Sisphys?
+
+Eternally doomed king of Ephyra
+
+Forced to roll the same boulder up the hill only for it to fall down again?
+
+how many times must I edit the form, click finish form only to see everything break and click ctrl-z
+
+just to roll it up the boulder again 
+
+
+# Update 6:
+
+IT WORKED IT OWRKED IT WORKED IT OWRKEDHJ
+
+IM DONE
+
+<img width="1124" height="477" alt="image" src="https://github.com/user-attachments/assets/b19dda4e-a874-4b19-aa0f-390e3b603394" />
+
+IM FINALLY DONE THE CAD AND THAT MARKS THE END OF THE DESIGN PHASE FOR THIS PROJECT! I CAN SUBMIT IT TO HIGHWAY AND GET MY GRANT AFTER I FINISH THE README YIPPEEEEEEE
+
+![freedom-chain](https://github.com/user-attachments/assets/46acb060-2476-4ac0-b2ee-cac2d54a7dfa)
+
+if you got all the way here thank you for reading: here is the final cad :D
+
+<img width="1003" height="626" alt="image" src="https://github.com/user-attachments/assets/fa448558-1425-4072-8ea3-53938f473191" />
+
+
+after 51 revisions.. 
+
+<img width="510" height="66" alt="image" src="https://github.com/user-attachments/assets/b98000a0-f7a8-4eeb-b8c4-804fdfd3f36c" />
