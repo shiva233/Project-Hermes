@@ -309,7 +309,7 @@ Forced to roll the same boulder up the hill only for it to fall down again?
 
 how many times must I edit the form, click finish form only to see everything break and click ctrl-z
 
-just to roll it up the boulder again 
+just to roll it up the hill again 
 
 
 # Update 6:
@@ -332,3 +332,5 @@ if you got all the way here thank you for reading: here is the final cad :D
 after 51 revisions.. 
 
 <img width="510" height="66" alt="image" src="https://github.com/user-attachments/assets/b98000a0-f7a8-4eeb-b8c4-804fdfd3f36c" />
+
+**Total time spent today: 5 whole hours 😭 I HATE CAD BUT ALSO IM SO PROUD AAA**
