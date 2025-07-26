@@ -56,8 +56,11 @@ Raspberry Pi 4 (2 GB with cooler) + Pisugar S Pro Portable 5000 mAh UPS +  7 inc
 ## Wiring / Cable fun
 
 Display: Hdmi to Micro Hdmi + Power mico-usb that both plug into the Pi
+
 Controller: USB-C to USB-A that plugs into the Pi
+
 Battery: its a hat! 
+
 Shoulder Buttons: Shoulder buttons may be hand wired to the PCB with a wire extending it :O
 
 ## Firmware
