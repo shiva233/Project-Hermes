@@ -24,7 +24,7 @@ So I designed a handheld that fixes both of these issues! It streams directly fr
 
 ## Design Constraints / Goals:
 
-- Size: Must be similar size/footprint to Steam Deck, ROG Ally or Switch (around 30cm x 11cm x 4cm) ☑️
+- Size: Must be similar size/footprint to Steam Deck, ROG Ally or Switch (around 30cm x 11cm x 4cm) ☑️ (well... except for that 4cm part it ended up being a lil bit more chonky lol!!)
 - Price: Must be cheaper than a Switch Lite (since it can't actually run games natively and only stream its not reasonable for it to cost more than an actual console) therefore must cost less than **$260 CAD or $190 USD** ☑️
 - Power: Battery Powered, chargable via USB-C while in use (aiming for around 2-3 hours) ☑️
 - Compute: Be able to run SteamLink at 720p 60hz ☑️
