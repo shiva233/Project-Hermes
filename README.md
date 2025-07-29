@@ -117,7 +117,7 @@ Why This Setup?
 | 7 inch LCD Display                  | Display                      | AliExpress   |           https://a.aliexpress.com/_mPIB3Jt |      $34.99 |
 | Waveshare rp2040-Zero               | Controller Microcontroller   | Self-Sourced |                                         N/a |       $0.00 |
 | Tact Switch Push Button             | Controller Buttons + Trigger | AliExpress   |           https://a.aliexpress.com/_mMydiq7 |       $2.42 |
-| Analog Effect Joystick              | Controller Joysticks         | AliExpress   |           https://a.aliexpress.com/_mNbLpIn |       $4.33 |
+| Analog Joysticks                    | Controller Joysticks         | AliExpress   |           https://a.aliexpress.com/_mNbLpIn |       $4.33 |
 | Controller PCB                      | Controller PCB               | JLCPCB       |                                         N/a |      $25.76 |
 | 3D Printed Case/Parts               | Housing/Buttons              | Self-Sourced |                                         N/a |       $0.00 |
 |                                     |                              |              |                                   Total CAD |     $201.01 |
