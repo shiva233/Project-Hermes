@@ -6,6 +6,10 @@
 > Hermes (n.): God of speed, travel, and messangers. In this incarnation he carries pixels instead of scrolls, streaming your games from your desktop to your hands :D
 
 
+## LIVE DEMO (check replies)
+https://x.com/shiva233233/status/1951108410113454563?s=46
+
+
 ## What is Project Hermes?
 Project Hermes is a Raspberry Pi powered game _**streaming**_ handheld built for PC gamers, streaming your games from your pc via SteamLink to the console wherever you want! (provided you have an internet connection) and since its only streaming the games you can do this without rebuying games or paying console prices for the hardware! 
 
