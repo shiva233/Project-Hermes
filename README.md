@@ -13,7 +13,6 @@ https://x.com/shiva233233/status/1951108410113454563?s=46
 ## What is Project Hermes?
 Project Hermes is a Raspberry Pi powered game _**streaming**_ handheld built for PC gamers, streaming your games from your pc via SteamLink to the console wherever you want! (provided you have an internet connection) and since its only streaming the games you can do this without rebuying games or paying console prices for the hardware! 
 
-**Status: Waiting for parts to arrive! Project Hermes should be assembled by 2025 August!**
 
 ## Why did I make Project Hermes
 
